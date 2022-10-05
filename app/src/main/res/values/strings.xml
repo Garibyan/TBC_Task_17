@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TBC_Task_17</string>
+    <string name="personal">Personal</string>
+    <string name="business">Business</string>
+    <string name="nigth_mode">Nigth mode</string>
+    <string name="username">Username</string>
+    <string name="test_gmail_com">test@gmail.com</string>
+</resources>
